@@ -28,8 +28,3 @@ spring:
   client:
     service-url:
       defaultZone: http://eureka8762.com:8762/eureka
-<<<<<<< HEAD
-      
-=======
-      
->>>>>>> 7fe0406fa02fc6a56dc8c066ea7ddcae1442f891
