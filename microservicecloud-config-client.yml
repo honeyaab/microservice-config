@@ -28,3 +28,6 @@ spring:
   client:
     service-url:
       defaultZone: http://eureka8762.com:8762/eureka
+
+
+33
